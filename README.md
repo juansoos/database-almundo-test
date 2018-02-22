@@ -14,9 +14,9 @@ Se require tener instalado NodeJS, NPM y MongoDB.
 ### **Installing**
 Primero se require clonar el repositorio
 
-* **SSH** `git clone git@github.com:juansoos/database.git`
+* **SSH** `git clone git@github.com:juansoos/database-almundo-test.git`
 
-* **HTTPS** `git clone https://github.com/juansoos/database.git`
+* **HTTPS** `git clone https://github.com/juansoos/database-almundo-test.git`
 
 Luego de ello ejecutar `npm install` dentro de la carpeta del proyecto.
 
@@ -59,7 +59,7 @@ Se encarga de obtener un hotel, recibe de parámetro el id del hotel.
 
 - - - -
 ## Tests
-Las funciones del CRUD de hoteles han sido testeadas usando [ava](https://github.com/avajs/ava)
+Las funciones del CRUD de un hotel han sido testeadas usando [ava](https://github.com/avajs/ava)
 
 * Correr `npm test` dentro de la carpeta del proyecto.
 
