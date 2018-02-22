@@ -29,8 +29,8 @@ La base de datos presenta una sóla colección llamada `hotels`, a continuación
   _id: objectID,
   name: String
   stars: Number
-  price:	Number
-  image:	String
+  price: Number
+  image: String
   amenities: Array<String>
 ```
 - - - -
