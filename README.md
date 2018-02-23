@@ -22,7 +22,7 @@ Luego de ello ejecutar `npm install` dentro de la carpeta del proyecto.
 
 ---
 ## **Data structure**
-La base de datos presenta una sóla colección llamada `hotels`, a continuación se presenta la estructura.
+La base de datos presenta una sola colección llamada `hotels`, a continuación se presenta la estructura.
 
 ### **Hotel** - (hotel)
 ```
@@ -31,7 +31,7 @@ La base de datos presenta una sóla colección llamada `hotels`, a continuación
   stars: Number
   price: Number
   image: String
-  amenities: Array<String>
+  comments: Array<String>
 ```
 - - - -
 ## Functions
